@@ -17,7 +17,7 @@ This repository contains my learning journey with NumPy as part of my AI/ML prep
 - Array Operations
 - Broadcasting
 - Copying Arrays
-- Matrix Operations
+- Matrix Operations 
 - Transpose
 - Array Stacking
 - Array Splitting
