@@ -13,7 +13,7 @@ This repository contains my learning journey with NumPy as part of my AI/ML prep
 - Array Attributes
 - Array Methods
 - Reshaping and Resizing
-- Indexing and Slicing
+- Indexing and Slicing 
 - Array Operations
 - Broadcasting
 - Copying Arrays
